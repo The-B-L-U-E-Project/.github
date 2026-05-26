@@ -1,3 +1,3 @@
-#BLUE — Broad Learning Universal Education.
+# BLUE — Broad Learning Universal Education.
 
 
